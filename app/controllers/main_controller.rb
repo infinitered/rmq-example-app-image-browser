@@ -3,9 +3,8 @@ class MainController < UIViewController
   def viewDidLoad
     super
 
-    init_nav
-
     rmq.stylesheet = MainStylesheet
+    init_nav
     rmq(self.view).apply_style :root_view
 
     rmq.append(UILabel, :search_label)
