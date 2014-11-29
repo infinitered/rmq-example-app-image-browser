@@ -13,7 +13,7 @@ Motion::Project::App.setup do |app|
   app.short_version = '0.1.0'
   app.version = app.short_version
 
-  app.sdk_version = '7.0'
+  app.sdk_version = '8.1'
   app.deployment_target = '7.0'
   # Or for iOS 6
   #app.sdk_version = '6.1'
@@ -40,5 +40,5 @@ Motion::Project::App.setup do |app|
   app.pods do
     pod 'AFNetworking'
   end
- 
+
 end
