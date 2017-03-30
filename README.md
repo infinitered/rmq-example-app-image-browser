@@ -7,3 +7,7 @@ RMQ Example - Image Browser is code example maintained by [Infinite Red](http://
 
 
 Uses RubyMotionQuery and AFMotion
+
+## Premium Support
+
+[RMQ](https://github.com/infinitered/rmq) and [RMQ Example Image Browser](https://github.com/infinitered/rmq-example-app-image-browser), as open source projects, are free to use and always will be. [Infinite Red](https://infinite.red/) offers premium RMQ and RMQ Example Image Browser support and general mobile app design/development services. Email us at [hello@infinite.red](mailto:hello@infinite.red) to get in touch with us for more details.
